@@ -1,7 +1,9 @@
 /*
 ** Get and display the (rough) physical memory size on a POSIXy box.
 **
-** Yippee:
+** Pretty sure this sucks.
+**
+** BTW, Yippee:
 ** http://en.wikipedia.org/wiki/Kilobyte
 ** http://en.wikipedia.org/wiki/Megabyte
 **
